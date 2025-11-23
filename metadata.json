@@ -1,0 +1,5 @@
+{
+  "name": "Telvex SAV - AI Dashboard",
+  "description": "A comprehensive AI-powered dashboard for Telecom Customer Support (SAV) analysis, featuring specific interfaces for Agents and Supervisors with automated LLM classification and response generation.",
+  "requestFramePermissions": []
+}
